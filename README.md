@@ -4,4 +4,5 @@ Additional changes made here.
 This is an example repository for the Git tutoial on https://www.w3schools.com
 Newline
 new
+lines
 This repository is built step by step in the tutorial.
