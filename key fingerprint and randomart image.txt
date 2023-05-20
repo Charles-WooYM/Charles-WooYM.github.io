@@ -1,0 +1,16 @@
+Your identification has been saved in /c/Users/Asus/.ssh/id_ed25519
+Your public key has been saved in /c/Users/Asus/.ssh/id_ed25519.pub
+The key fingerprint is:
+SHA256:N8FVQAw0INLca4nQVXmb5TEHPO6PHNDNGM5zRu/ZJWY charles.wooym@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|    .+.oo+==++o. |
+|    ..+....oo B o|
+|     . . oo. X @.|
+|      . +  .+ E B|
+|       .S o  = *+|
+|         . .  o.o|
+|             . + |
+|              o .|
+|                 |
++----[SHA256]-----+
